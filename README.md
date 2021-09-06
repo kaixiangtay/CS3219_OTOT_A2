@@ -1,4 +1,5 @@
 # CS3219_OTOT_TaskA2
+**Reference: https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/**
 
 **Pre-requisites: Docker and Kubernetes software installed on computer**
 
